@@ -1,0 +1,2 @@
+Créer une application Python qui permet aux utilisateurs de poser des questions en langage naturel et d’obtenir des réponses à partir des données stockées dans une base PostgreSQL. Cette application utilise une interface utilisateur conviviale, grâce à Gradio, et s’appuie sur un modèle de langage (LLM) pour traduire les questions en requêtes SQL, exécuter ces requêtes sur la base de données, et fournir les réponses sous forme de texte.
+
